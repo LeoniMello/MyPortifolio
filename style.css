@@ -9,24 +9,25 @@
 
 /*VERSÃO MOBILE-FIRST MOBILE=============================================================================== */
 
-body{ 
+body {
   background-color: #121214;
-  width: 45rem;
-  border: solid greenyellow 1px;
+  width: 36rem;
+  border: solid aquamarine 1px;
   margin: 0 auto;
   font-family: 'Inconsolata', monospace;
 }
 
-
 header {
-  width: 45rem;
+  width: 36rem;
   height: 8rem;
   display: flex;
+  text-align: center;
+  border: 1px red solid;
 }
 
 .green {
-  color: #BADB73;
-} 
+  color: #badb73;
+}
 
 header h1 {
   width: 18rem;
@@ -36,11 +37,8 @@ header h1 {
   font-family: 'Inter', sans-serif;
 }
 
-header button{
+header button {
   border: none;
   list-style: none;
   background-color: #121214;
-  margin: 1.6rem 0.8rem 1.6rem 20.5rem;
 }
-
-
