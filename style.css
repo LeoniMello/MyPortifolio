@@ -19,6 +19,7 @@ body {
 }
 
 header {
+  border: 1px red solid;
   height: 8rem;
   display: flex;
   justify-content: space-between;
