@@ -13,14 +13,14 @@ body {
   background-color: #121214;
   width: 100vw;
   max-width: 45rem;
-  border: solid aquamarine 1px;
+ /* border: solid aquamarine 1px; */
   margin: 0 auto;
   font-family: 'Inconsolata', monospace;
   color: aliceblue;
 }
 
 header {
-  border: 1px red solid;
+ /* border: 1px red solid; */
   height: 8rem;
   display: flex;
   justify-content: space-between;
