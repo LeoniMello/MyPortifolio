@@ -1,0 +1,46 @@
+:root {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*VERSÃO MOBILE-FIRST MOBILE=============================================================================== */
+
+body{ 
+  background-color: #121214;
+  width: 45rem;
+  border: solid greenyellow 1px;
+  margin: 0 auto;
+  font-family: 'Inconsolata', monospace;
+}
+
+
+header {
+  width: 45rem;
+  height: 8rem;
+  display: flex;
+}
+
+.green {
+  color: #BADB73;
+} 
+
+header h1 {
+  width: 18rem;
+  height: 3.9rem;
+  color: white;
+  margin: 2.5rem 0px 2.5rem 0.8rem;
+  font-family: 'Inter', sans-serif;
+}
+
+header button{
+  border: none;
+  list-style: none;
+  background-color: #121214;
+  margin: 1.6rem 0.8rem 1.6rem 20.5rem;
+}
+
+
