@@ -18,7 +18,7 @@ body {
   font-family: 'Inconsolata', monospace;
   color: aliceblue;
 }
-
+/*CABEÇALHO---------------------------------------------------------*/
 header {
  /* border: 1px red solid; */
   height: 8rem;
@@ -45,4 +45,36 @@ header button {
   list-style: none;
   background-color: #121214;
   margin-right: 0.8rem;
+}
+
+/*ME APRESENTAÇÃO---------------------------------------------------------*/
+section {
+  border: solid 1px red;
+}
+
+.me {
+  margin: 14.1rem auto 0 auto;
+  width: 31.4rem;
+}
+
+.me h3 {
+  font-weight: 900;
+  font-size: 4rem;
+  line-height: 4.2rem;
+
+  color: #badb73;
+}
+
+.me h4 {
+  font-weight: 700;
+  font-size: 3.2rem;
+  line-height: 3.4rem;
+
+}
+
+.me p {
+  font-weight: 400;
+  font-size: 2.4rem;
+  line-height: 2.5rem;
+
 }
