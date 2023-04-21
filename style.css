@@ -88,8 +88,27 @@ section {
 
 .photo img {
   display: block;
-  width: 41.3rem;
+  max-width: 41.3rem;
   height: 35rem;
   margin: 0 auto;
-  
 }
+
+/*AboutME---------------------------------------------------------*/
+
+.imgballs {
+  width: 10rem;
+  display: block;
+  margin: 0 auto;
+  margin-top: 3.4rem;
+}
+
+.sobremim {
+  margin: 3.2rem auto 3.2rem auto;
+  max-width: 32rem;
+  font-weight: 500;
+  font-size: 2.4rem;
+  line-height: 2.5rem;
+
+  border: 1px solid blue;
+}
+
