@@ -153,3 +153,15 @@ section {
   line-height: 2.5rem;
   margin-left: 1.6rem;
 }
+
+/*MeusProjetos---------------------------------------------------------*/
+
+#myworks .titlemyworks {
+  color: #badb73;
+  height: 3.4rem;
+  font-family: 'Inconsolata';
+  font-weight: 700;
+  font-size: 3.2rem;
+  line-height: 3.4rem;
+  margin: 6.4rem auto 3.2rem auto;
+}
