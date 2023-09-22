@@ -156,12 +156,32 @@ section {
 
 /*MeusProjetos---------------------------------------------------------*/
 
-#myworks .titlemyworks {
+#myworks h3 {
   color: #badb73;
   height: 3.4rem;
   font-family: 'Inconsolata';
   font-weight: 700;
   font-size: 3.2rem;
   line-height: 3.4rem;
+  max-width: 32rem;
   margin: 6.4rem auto 3.2rem auto;
 }
+
+#myworks ul li {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.6rem;
+}
+
+#myworks ul li a img {
+  max-width: 32rem;
+  max-height: 32rem;
+  border-radius: 1rem; 
+}
+
+#myworks ul li a img:hover {
+  color: black;
+  
+}
+
