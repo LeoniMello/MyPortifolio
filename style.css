@@ -50,13 +50,13 @@ header button {
 
 /*ME APRESENTAÇÃO---------------------------------------------------------*/
 section {
-  border: solid 1px red;
+  /*border: solid 1px red;*/
 }
 
 .me {
   margin: 14.1rem auto 0 auto;
   max-width: 31.4rem;
-  border: 1px solid aquamarine;
+
 }
 
 .me h3 {
@@ -110,7 +110,6 @@ section {
   font-size: 2.4rem;
   line-height: 2.5rem;
 
-  border: 1px solid blue;
 }
 
 /*ListSkills---------------------------------------------------------*/
