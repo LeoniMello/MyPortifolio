@@ -184,3 +184,11 @@ section {
   
 }
 
+/*FOOTER---------------------------------------------------------*/
+
+footer h3 {
+  font-family: Impact;
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: 400;
+}
