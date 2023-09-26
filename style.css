@@ -192,3 +192,13 @@ footer h3 {
   font-style: normal;
   font-weight: 400;
 }
+
+footer a {
+  display: block;
+  color: #BADB73;
+  font-family: Inconsolata;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal
+}
