@@ -186,11 +186,37 @@ section {
 
 /*FOOTER---------------------------------------------------------*/
 
+footer p{
+  width: 27rem;
+  height: 4.6rem;
+  color: #EFEAE4;
+  font-family: Inconsolata;
+  font-size: 1.7rem;
+  font-weight: 400;
+  margin: 6.4rem auto 0rem auto;
+  border: 0rem auto 0rem auto;
+}
+
 footer h3 {
   font-family: Impact;
   font-size: 2.5rem;
   font-style: normal;
   font-weight: 400;
+  color: #BADB73;
+  width: 33rem;
+  height: 46px;
+  margin: 0rem auto 1.6rem auto;
+  
+}
+
+footer h5 {
+
+  font-family: Impact;
+  font-size: 1.6rem;
+  font-weight: 400;
+  width: 339px;
+  height: 46px;
+  margin: 1.6rem auto 0.1rem auto;
 }
 
 footer a {
@@ -198,7 +224,6 @@ footer a {
   color: #BADB73;
   font-family: Inconsolata;
   font-size: 2rem;
-  font-style: normal;
   font-weight: 400;
   line-height: normal
 }
